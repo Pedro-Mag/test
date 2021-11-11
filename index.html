@@ -7,6 +7,12 @@
     <title>Document</title>
 
     <style>
+
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
         .topbar {
             background-color: red;
             padding: 1rem;
@@ -14,12 +20,17 @@
             align-items: center;
         }
 
+        .topbar span:first {
+            flex-grow: 1;
+        }
+
     </style>
 </head>
 <body>
     <nav class="topbar">
         <span>Hello world</span>
-        <span></span>
+        <span>User</span>
+        <button></button>
     </nav>
 </body>
 </html>
