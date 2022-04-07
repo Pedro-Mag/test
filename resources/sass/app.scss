@@ -1,0 +1,41 @@
+$body-bg: #f8f9fa;
+
+$font-family-sans-serif: 'Open sans';
+
+$card-border-width: 0;
+
+$card-border-radius: .5rem;
+
+$input-group-addon-bg: white;
+
+
+$form-label-font-size: .85rem;
+$form-label-font-weight: 400;
+$form-label-color: #6c757d;
+
+$form-check-label-color: #6c757d;
+
+$breadcrumb-bg: none;
+$breadcrumb-padding-y: 0;
+$breadcrumb-padding-x: 0;
+
+.nav-link{
+  text-decoration: none !important;
+  color: #495057 !important;
+}
+
+.nav-link.active{
+  font-weight: bold !important;
+}
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+
+@import 'node_modules/bootstrap-vue/src/index.scss';
+@import 'node_modules/@sweetalert2/theme-bootstrap-4/bootstrap-4.scss';
+
+@import 'custom-toasts.scss';
+@import 'vue-multiselect.scss';
+@import 'n-progress.scss';
+@import 'swal2.scss';

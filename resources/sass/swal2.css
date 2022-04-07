@@ -1,0 +1,46 @@
+.colored-toast {
+  height: 4em !important;
+  border: none !important;
+  border-radius: 0.75rem !important;
+}
+
+.colored-toast.swal2-icon-success {
+  background-color: #a5dc86 !important;
+}
+
+.colored-toast.swal2-icon-error {
+  background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+  background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+  background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+  background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+  text-align: center !important;
+  color: white !important;
+  font-size: 1rem !important;
+  -ms-flex-item-align: center !important;
+      -ms-grid-row-align: center !important;
+      align-self: center !important;
+  -ms-grid-column-align: center !important;
+      justify-self: center !important;
+  position: absolute !important;
+}
+
+.colored-toast .swal2-close {
+  color: white !important;
+}
+
+.colored-toast .swal2-html-container {
+  color: white !important;
+}
+/*# sourceMappingURL=swal2.css.map */

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="410mm"
+   height="130mm"
+   viewBox="0 0 297 126"
+   version="1.1"
+   id="svg866"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="title.svg">
+  <defs
+     id="defs860" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="719.62645"
+     inkscape:cy="275.31414"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg866"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata863">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-171)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:108.59527588px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:4.45137739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="99.191292"
+     y="101.01894"
+     id="text874"><tspan
+       sodipodi:role="line"
+       id="tspan872"
+       x="99.191292"
+       y="101.01894"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:108.59527588px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:4.45137739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SIGO</tspan></text>
+  <g
+     id="g871"
+     transform="matrix(1.8105233,0,0,1.8105233,-97.790779,-50.684134)"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       d="m 58.007558,93.312588 -26.432679,-15.260913 -1e-6,-30.521828 26.432678,-15.260915 26.432679,15.260913 0,30.521828 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.0943951"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="26.43268"
+       sodipodi:r1="30.521828"
+       sodipodi:cy="62.79076"
+       sodipodi:cx="58.007557"
+       sodipodi:sides="6"
+       id="path845"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff7b04;stroke-width:6.17366648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:13.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path898"
+       d="M 71.952016,60.216239 71.861424,54.765941 57.962026,46.741128 44.062632,54.765941 71.861424,70.815596 57.962026,78.840392 44.062634,70.815596 v -5.113251"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff7b04;stroke-width:6.4497385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:13.89999962;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#2e2e2e;stroke-width:4.45137739;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 82.851541,6.5522253 V 119.44778"
+     id="path876"
+     inkscape:connector-curvature="0" />
+</svg>
